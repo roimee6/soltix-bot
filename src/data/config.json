@@ -1,0 +1,17 @@
+{
+	"SOLTIX_EMAIL": "ganni.developper@gmail.com",
+	"SOLTIX_PASSWORD": "Zaylow12!",
+
+	"URL": "https://dash.soltix.cc",
+	"SCANS_PATH": "/scans",
+	"API_PATH": "/api/scans",
+
+	"TOKEN": "MTEzMjQ0MDA0NTAzMTI2NDI2Ng.GpXrr8.jpnXLor7ZlaXKCMCQgXkMSkXTeLw8H6_uWO0YA",
+
+	"GUILD_ID": "1046198130489692240",
+	"CLIENT_ID": "1132440045031264266",
+	
+	"OWNERS": [
+		"1042541730823667814"
+	]
+}

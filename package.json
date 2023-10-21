@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon -e ."
+  },
+  "author": "maxoooz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "node-html-parser": "^6.1.5",
+    "nodemon": "^3.0.1",
+    "puppeteer": "^20.9.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
